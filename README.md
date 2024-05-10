@@ -1,6 +1,7 @@
 # TextUtils
 
 [Live Link](https://text-utils-kappa-liart.vercel.app/)
+
 ![Demo](/public/textUtils.png)
 
 
