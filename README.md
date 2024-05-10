@@ -1,6 +1,6 @@
 # TextUtils
 
-[Link text](https://text-utils-kappa-liart.vercel.app/)
+[Live Link](https://text-utils-kappa-liart.vercel.app/)
 ![Demo](/public/textUtils.png)
 
 
